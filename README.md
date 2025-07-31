@@ -23,7 +23,7 @@
 
 1. **克隆專案**
 ```bash
-git clone https://github.com/your-username/mosquito-hunter.git
+git clone https://github.com/TaurusBlake/mosquito-hunter.git
 cd mosquito-hunter
 ```
 
@@ -134,9 +134,9 @@ mosquito-hunter/
 
 ## 👨‍💻 作者
 
-**你的名字**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+** 謝遇安 TaurusBlake **
+- GitHub: [@TaurusBlake](https://github.com/TaurusBlake)
+- Email: taurusblake101@gmail.com
 
 ## 🙏 致謝
 
