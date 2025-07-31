@@ -119,4 +119,8 @@ Thumbs.db
 # 如果有暫存檔案或日誌檔案可以加入這裡
 *.log
 temp/
-cache/ 
+cache/
+
+# PyInstaller 打包檔案
+_internal/
+Game.exe 
